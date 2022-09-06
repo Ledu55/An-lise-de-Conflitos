@@ -43,11 +43,18 @@ por meio de um jupyter notebook.
 Na nova tabela criada foi copiada a variável Id do funcionário e com ela foi possivel criar o
 relacionamento de 1:1 entre as tabelas no Powerbi.
 
-## 3.0 Resultado
+# 3.0 Resultado
 
+O resultado das principais interfaces do Dashboard está dispoível de abaixo e o Dashboard pode
+ser acessado [aqui][Dashboard]
 
+![Dash0](https://github.com/Ledu55/An-lise-de-Conflitos/blob/master/Imagens/Dash0.png)
 
+![Dash1](https://github.com/Ledu55/An-lise-de-Conflitos/blob/master/Imagens/Dash1.png)
 
+# 4.0 Próximos Passos
+
+- Criar Versão Mobile do Dashboard
 
 [Dashboard]: https://app.powerbi.com/view?r=eyJrIjoiOWRhNWRjZjktYTMzZi00YjUwLWI5OTMtYzBlODA3ODM5YTFjIiwidCI6IjI1ZDM2M2EyLTRjNzktNDRlNy05N2I3LWVkZjgxZGY3ZTYwOSJ9&pageName=ReportSection
 [dataworld]: https://data.world/markbradbourne/rwfd-real-world-fake-data-season-2/workspace/file?filename=HR_Attrition.csv
