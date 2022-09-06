@@ -45,7 +45,6 @@ relacionamento de 1:1 entre as tabelas no Powerbi.
 
 ## 3.0 Resultado
 
-<iframe title="RH Everest Group" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZjk4N2I5ODgtMTk2MS00MmJmLTk0MzQtZDFiYjkwNjYzZmMzIiwidCI6IjI1ZDM2M2EyLTRjNzktNDRlNy05N2I3LWVkZjgxZGY3ZTYwOSJ9&pageName=ReportSectionb0ad6a29d08b006d678d" frameborder="0" allowFullScreen="true"></iframe>
 
 
 
