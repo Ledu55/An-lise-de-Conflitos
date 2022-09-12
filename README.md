@@ -52,9 +52,10 @@ ser acessado [aqui][Dashboard]
 
 ![Dash1](https://github.com/Ledu55/An-lise-de-Conflitos/blob/master/Imagens/Dash1.png)
 
-# 4.0 Próximos Passos
+# 4.0 Referências
+1. https://sonsofhierarchies.com/real-world-fake-data-season-2/hr-attrition-requirements-rwfd/
+2. https://www.youtube.com/watch?v=cYwioeHu_OU&list=PLs93rgE5erT7LvgdwJUifLBxZiYyT6kQH
 
-- Criar Versão Mobile do Dashboard
 
 [Dashboard]: https://app.powerbi.com/view?r=eyJrIjoiOWRhNWRjZjktYTMzZi00YjUwLWI5OTMtYzBlODA3ODM5YTFjIiwidCI6IjI1ZDM2M2EyLTRjNzktNDRlNy05N2I3LWVkZjgxZGY3ZTYwOSJ9&pageName=ReportSection
 [dataworld]: https://data.world/markbradbourne/rwfd-real-world-fake-data-season-2/workspace/file?filename=HR_Attrition.csv
